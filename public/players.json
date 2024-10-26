@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "img": "https://i.ibb.co/0Y7hffc/virat.webp",
+    "profile": "Batsman",
+    "battingPosition": "Right Hand",
+    "price": 1200000
+  },
+  {
+    "id": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "img": "https://i.ibb.co/YbW2bgD/steve.webp",
+    "profile": "Batsman",
+    "battingPosition": "Right Hand",
+    "price": 1100000
+  },
+  {
+    "id": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "img": "https://i.ibb.co/BstW9sM/ben.jpg",
+    "profile": "All Rounder",
+    "battingPosition": "Left Hand",
+    "price": 1300000
+  },
+  {
+    "id": 4,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "img": "https://i.ibb.co/B4zgRyL/rashid.webp",
+    "profile": "Bowler",
+    "battingPosition": "Right Hand",
+    "price": 900000
+  },
+  {
+    "id": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "img": "https://i.ibb.co/LZvLTHx/kane.webp",
+    "profile": "Batsman",
+    "battingPosition": "Right Hand",
+    "price": 1150000
+  },
+  {
+    "id": 6,
+    "name": "David Warner",
+    "country": "Australia",
+    "img": "https://i.ibb.co/C1C9Nvn/david.jpg",
+    "profile": "Batsman",
+    "battingPosition": "Left Hand",
+    "price": 1250000
+  },
+  {
+    "id": 7,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "img": "https://i.ibb.co/2Z9Zq6g/jasprit.jpg",
+    "profile": "Bowler",
+    "battingPosition": "Right Hand",
+    "price": 1000000
+  },
+  {
+    "id": 8,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "img": "https://i.ibb.co/cYKztJY/shakib.jpg",
+    "profile": "All Rounder",
+    "battingPosition": "Left Hand",
+    "price": 950000
+  },
+  {
+    "id": 9,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "img": "https://i.ibb.co/8st5cyg/quinton.jpg",
+    "profile": "Batsman",
+    "battingPosition": "Left Hand",
+    "price": 1050000
+  },
+  {
+    "id": 10,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "img": "https://i.ibb.co/wRLf27W/babar.jpg",
+    "profile": "Batsman",
+    "battingPosition": "Right Hand",
+    "price": 1250000
+  },
+  {
+    "id": 11,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "img": "https://i.ibb.co/fQ0R2yb/trent.jpg",
+    "profile": "Bowler",
+    "battingPosition": "Left Hand",
+    "price": 900000
+  },
+  {
+    "id": 12,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "img": "https://i.ibb.co/sWzF2C7/andre.webp",
+    "profile": "All Rounder",
+    "battingPosition": "Right Hand",
+    "price": 1350000
+  }
+]
