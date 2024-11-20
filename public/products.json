@@ -1,0 +1,259 @@
+{
+    "electronics": [
+      {
+        "product_id": "ELEC001",
+        "product_title": "Ultra HD 4K TV",
+        "product_image": "https://i.ibb.co/mJ5XKxY/ultra-hd-4k-tv.webp",
+        "category": "Televisions",
+        "price": 399.99,
+        "description": "Experience stunning 4K clarity and vivid colors on this 55-inch Ultra HD television.",
+        "Specification": [
+          "Resolution: 3840 x 2160",
+          "HDMI Ports: 4",
+          "Display Technology: LED",
+          "Smart TV: Yes"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "ELEC002",
+        "product_title": "Bluetooth Soundbar",
+        "product_image": "https://i.ibb.co/9Hm7fd7/bluetooth-soundbar.webp",
+        "category": "Televisions",
+        "price": 129.99,
+        "description": "Enhance your TV experience with this high-quality soundbar featuring wireless Bluetooth connectivity.",
+        "Specification": [
+          "Channels: 2.1",
+          "Connectivity: Bluetooth, HDMI, Optical",
+          "Subwoofer: External",
+          "Mountable: Yes"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "ELEC003",
+        "product_title": "Streaming Media Player",
+        "product_image": "https://i.ibb.co/kJW6cFj/streaming-media-player.webp",
+        "category": "Televisions",
+        "price": 59.99,
+        "description": "Stream your favorite content in HD quality with this easy-to-use media player.",
+        "Specification": [
+          "Supported Services: Netflix, Hulu, Amazon Prime",
+          "Output: HDMI",
+          "Remote Control: Included",
+          "Voice Control: Supported"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": "ELEC004",
+        "product_title": "Wall Mount Kit",
+        "product_image": "https://i.ibb.co/8NVrkVk/wall-mount-kit.webp",
+        "category": "Televisions",
+        "price": 59.95,
+        "description": "Mount your TV securely with this universal wall mount kit, compatible with most brands and sizes.",
+        "Specification": [
+          "Compatible Sizes: 32\" - 70\"",
+          "Max Weight: 110 lbs",
+          "Tilt Feature: Yes",
+          "Materials: Steel"
+        ],
+        "availability": false,
+        "rating": 4.7
+      },
+      {
+        "product_id": "ELEC005",
+        "product_title": "Remote Control Universal",
+        "product_image": "https://i.ibb.co/7pb8XR5/remote-control-universal.webp",
+        "category": "Televisions",
+        "price": 24.99,
+        "description": "Control all your devices with one remote, compatible with thousands of models.",
+        "Specification": [
+          "Compatibility: Universal",
+          "Battery Type: AAA",
+          "Programmable: Yes"
+        ],
+        "availability": true,
+        "rating": 4.2
+      },
+      {
+        "product_id": "ELEC006",
+        "product_title": "4K HDMI Cable",
+        "product_image": "https://i.ibb.co/pbVbhRr/4k-hdmi-cable.webp",
+        "category": "Televisions",
+        "price": 25.99,
+        "description": "Get the best picture quality with this 4K compatible HDMI cable.",
+        "Specification": [
+          "Length: 2 meters",
+          "Resolution Support: Up to 4K",
+          "Bandwidth: 18 Gbps",
+          "Shielding: Triple"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "ELEC007",
+        "product_title": "Wireless Earbuds",
+        "product_image": "https://i.ibb.co/mJT8XVH/wireless-earbuds.webp",
+        "category": "Audio",
+        "price": 99.99,
+        "description": "Compact and light, these wireless earbuds provide excellent sound quality and Bluetooth connectivity.",
+        "Specification": [
+          "Battery Life: 8 hours",
+          "Charge Time: 1 hour",
+          "Range: 10 meters",
+          "Water Resistance: IPX4"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "ELEC008",
+        "product_title": "Noise Cancelling Headphones",
+        "product_image": "https://i.ibb.co/bFSPN1Z/noise-cancelling-headphones.webp",
+        "category": "Audio",
+        "price": 199.99,
+        "description": "Enjoy uninterrupted music or podcasts with these top-of-the-line noise cancelling headphones.",
+        "Specification": [
+          "Type: Over-ear",
+          "Connectivity: Bluetooth, Wired",
+          "Noise Cancellation: Active",
+          "Battery Life: 20 hours"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "ELEC009",
+        "product_title": "Smartwatch Fitness Tracker",
+        "product_image": "https://i.ibb.co/7pftCct/smartwatch-fitness.webp",
+        "category": "Wearable Technology",
+        "price": 149.99,
+        "description": "Track your fitness progress and stay connected with this stylish and functional smartwatch.",
+        "Specification": [
+          "Display: 1.4 inch AMOLED",
+          "Sensors: Heart Rate, GPS, Accelerometer",
+          "Compatibility: iOS, Android",
+          "Waterproof: Yes"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "ELEC010",
+        "product_title": "Virtual Reality Headset",
+        "product_image": "https://i.ibb.co/BgjSGQK/virtual-reality-headset.webp",
+        "category": "Gaming",
+        "price": 349.99,
+        "description": "Immerse yourself in virtual worlds and experience gaming like never before with our VR headset.",
+        "Specification": [
+          "Display Resolution: 2880 x 1600",
+          "Refresh Rate: 90 Hz",
+          "Field of View: 110 degrees",
+          "Controllers: Included"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "ELEC011",
+        "product_title": "Gaming Mouse",
+        "product_image": "https://i.ibb.co/y69L5d0/gaming-mouse.webp",
+        "category": "Gaming",
+        "price": 75.00,
+        "description": "Precision and speed define this gaming mouse, built for professional gamers with customizable buttons.",
+        "Specification": [
+          "DPI: Up to 12000",
+          "Programmable Buttons: 8",
+          "RGB Lighting: Yes",
+          "Connectivity: Wired USB"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "ELEC012",
+        "product_title": "Compact Camera",
+        "product_image": "https://i.ibb.co/HBt9fMh/compact-camera.webp",
+        "category": "Photography",
+        "price": 250.00,
+        "description": "Capture stunning photographs and videos with this compact and versatile digital camera.",
+        "Specification": [
+          "Megapixels: 20.1",
+          "Optical Zoom: 10x",
+          "Screen: 3 inch LCD",
+          "Video: Full HD 1080p"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": "ELEC013",
+        "product_title": "Action Camera",
+        "product_image": "https://i.ibb.co/c3FNcxv/action-camera.webp",
+        "category": "Photography",
+        "price": 199.95,
+        "description": "Go anywhere and record everything with this rugged and ready action camera, perfect for extreme sports.",
+        "Specification": [
+          "Resolution: 4K 60fps",
+          "Waterproof: Up to 30 meters",
+          "Stabilization: HyperSmooth 2.0",
+          "Features: Live Streaming"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "ELEC014",
+        "product_title": "Portable Bluetooth Speaker",
+        "product_image": "https://i.ibb.co/CQMbnZN/portable-bluetooth-speaker.webp",
+        "category": "Audio",
+        "price": 89.99,
+        "description": "Take your music everywhere with this portable Bluetooth speaker, featuring deep bass and waterproof design.",
+        "Specification": [
+          "Battery Life: 12 hours",
+          "Charge Time: 3 hours",
+          "Connectivity: Bluetooth 5.0",
+          "Waterproof: IPX7"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "ELEC015",
+        "product_title": "E-Reader",
+        "product_image": "https://i.ibb.co/k2CBJFh/e-reader.webp",
+        "category": "Mobile Devices",
+        "price": 130.00,
+        "description": "Enjoy thousands of books in the palm of your hand with this lightweight and readable e-reader.",
+        "Specification": [
+          "Display: 6 inch E Ink",
+          "Storage: 8GB",
+          "Battery Life: Weeks on a single charge",
+          "Built-in Light: Yes"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "ELEC016",
+        "product_title": "Tablet",
+        "product_image": "https://i.ibb.co/6JvyYm2/tablet.webp",
+        "category": "Mobile Devices",
+        "price": 299.99,
+        "description": "Perfect for work and play, this tablet offers a powerful processor and a vibrant display for an all-around multimedia experience.",
+        "Specification": [
+          "Display: 10.5 inch Full HD",
+          "Processor: Octa-Core",
+          "RAM: 4GB",
+          "Storage: 64GB"
+        ],
+        "availability": true,
+        "rating": 4.6
+      }
+    ]
+  }
